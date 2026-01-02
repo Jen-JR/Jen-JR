@@ -13,7 +13,7 @@
 
 ### 🛠 Tools & Technologies
 * **Data & Programming:** Python, Google Colab, PgAdmin4, Machine Learning, and Data Modeling.
-* **Geoprocessing:** QGIS, Envi, and Google Earth.
+* **Geoprocessing:** QGIS/ARCMAP, Envi, and Google Earth.
 * **Laboratory:** Chemical instrumentation, solution preparation, and lab techniques.
 * **Design:** Image production/editing software with experience in illustration.
 
