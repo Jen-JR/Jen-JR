@@ -9,7 +9,7 @@
 ### 🚀 What I'm Currently Working On
 * **Data Modeling:** Using intelligence and machine learning for geological technology and mineral prospection.
 * **GEOJR:** Project member at a student junior enterprise, fostering entrepreneurship in geosciences.
-* **Scientific Preservation:** Managed and cataloged a lithological collection of over 3,000 items at LitoLab (USP).
+* **Intern in Mining Geology and Environmental Management** I work with Petrus, a company with over 20 years of experience in the mineral exploration and geological modeling market, supporting research projects, licensing, and mineral and environmental development.
 
 ### 🛠 Tools & Technologies
 * **Data & Programming:** Python, Google Colab, PgAdmin4, Machine Learning, and Data Modeling.
